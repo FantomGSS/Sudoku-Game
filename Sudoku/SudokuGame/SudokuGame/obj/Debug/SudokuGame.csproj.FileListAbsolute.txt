@@ -1,0 +1,13 @@
+C:\Users\Phantom\source\repos\C#Uni\CourseProject\SudokuGame\SudokuGame\bin\Debug\SudokuGame.pdb
+C:\Users\Phantom\source\repos\C#Uni\CourseProject\SudokuGame\SudokuGame\obj\Debug\SudokuGame_MarkupCompile.cache
+C:\Users\Phantom\source\repos\C#Uni\CourseProject\SudokuGame\SudokuGame\obj\Debug\SudokuGame_MarkupCompile.lref
+C:\Users\Phantom\source\repos\C#Uni\CourseProject\SudokuGame\SudokuGame\obj\Debug\SudokuGame.g.resources
+C:\Users\Phantom\source\repos\C#Uni\CourseProject\SudokuGame\SudokuGame\obj\Debug\SudokuGame.Properties.Resources.resources
+C:\Users\Phantom\source\repos\C#Uni\CourseProject\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.GenerateResource.cache
+C:\Users\Phantom\source\repos\C#Uni\CourseProject\SudokuGame\SudokuGame\obj\Debug\SudokuGame.csproj.CoreCompileInputs.cache
+C:\Users\Phantom\source\repos\C#Uni\CourseProject\SudokuGame\SudokuGame\obj\Debug\SudokuGame.pdb
+C:\Users\Phantom\source\repos\C#Uni\CourseProject\SudokuGame\SudokuGame\obj\Debug\SudokuGameUserControl.g.cs
+C:\Users\Phantom\source\repos\C#Uni\CourseProject\SudokuGame\SudokuGame\obj\Debug\SudokuGameUserControl.baml
+C:\Users\Phantom\source\repos\C#Uni\CourseProject\SudokuGame\SudokuGame\bin\Debug\SudokuGame.dll.config
+C:\Users\Phantom\source\repos\C#Uni\CourseProject\SudokuGame\SudokuGame\bin\Debug\SudokuGame.dll
+C:\Users\Phantom\source\repos\C#Uni\CourseProject\SudokuGame\SudokuGame\obj\Debug\SudokuGame.dll

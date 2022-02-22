@@ -1,0 +1,14 @@
+﻿<Window x:Class="SudokuGameApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:sudokuGame="clr-namespace:SudokuGame;assembly=SudokuGame"
+        xmlns:local="clr-namespace:SudokuGameApp"
+        mc:Ignorable="d" 
+        ResizeMode="CanMinimize" Icon="SudokuAppIcon.ico"
+        Title="Sudoku" Height="710" Width="900">
+    <StackPanel>
+        <sudokuGame:SudokuGameUserControl Name="SudokuPuzzleGame" Height="672" Width="884"/>
+    </StackPanel>
+</Window>
